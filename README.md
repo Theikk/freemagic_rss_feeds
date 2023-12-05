@@ -1,1 +1,1 @@
-# publicmodlogs
+# public feeds
